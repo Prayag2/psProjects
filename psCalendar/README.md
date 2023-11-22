@@ -1,8 +1,2 @@
 # psCalendar
-
-This is a program which can be used to generate a calendar for a leap year taking 1st Jan XXXX on Sunday
-
-## Installation
-
-1. Clone this repository: `git clone git@github.com:somil0701/psCalendar.git`
-2. Compile and Run: `gcc main.c -o ./cal && ./cal`
+A simple calendar generator cli tool which can be used to display the calendar of any month of any year accurately starting from 0001AD! It takes into consideration events like [Give Us Our Eleven Days](https://www.historic-uk.com/HistoryUK/HistoryofBritain/Give-us-our-eleven-days/) and leap years.
