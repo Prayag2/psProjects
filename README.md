@@ -19,6 +19,7 @@ OR
 ```bash
 make psQuiz
 ```
+4. Execute binaries from the `bin` folder
 
 ### LICENSE
 GNU General Public License v3
