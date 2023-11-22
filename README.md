@@ -2,7 +2,7 @@
 Small C projects created as a way to practice the C programming language.  
 These projects were developed in collaboration with [Somil0701](https://github.com/somil0701).  
 
-# Compile and Run
+### Compile and Run
 1. Clone this repository
 ```bash
 git clone https://github.com/prayag2/psProjects
@@ -20,5 +20,5 @@ OR
 make psQuiz
 ```
 
-## LICENSE
+### LICENSE
 GNU General Public License v3
